@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Create project
 
-
-Server side (SSR): no
+stylesheet format: SCSS
+Server-Side Rendering (SSR) and Static Site Generetion (SSG): No
